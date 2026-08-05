@@ -19,7 +19,11 @@ dev-rg= {
     location = "East US"
 
   }
+rg4 = {
 
+    name = "debana"
+
+    location = "East US"
 }
 }
 dev-vnet={
