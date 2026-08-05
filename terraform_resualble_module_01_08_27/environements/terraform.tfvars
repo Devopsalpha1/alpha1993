@@ -19,9 +19,9 @@ dev-rg= {
     location = "East US"
 
   }
-rg4 = {
+rg6 = {
 
-    name = "debana"
+    name = "sumant"
 
     location = "East US"
 }
