@@ -5,9 +5,16 @@ dev-rg= {
     }
     resource_groups = {
 
-  rg1 = {
+  rg2 = {
 
     name = "humana-rg"
+
+    location = "East US"
+
+  }
+  rg2 = {
+
+    name = "humana-rg2"
 
     location = "East US"
 
