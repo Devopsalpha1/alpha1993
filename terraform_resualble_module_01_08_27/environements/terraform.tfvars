@@ -1,7 +1,7 @@
 dev-rg= {
     rg1={
     name="rg-dev-eastjapan"
-    location="japaneast2"
+    location="japaneast"
     }
     rg2={
     name="Sunday_Pain"
