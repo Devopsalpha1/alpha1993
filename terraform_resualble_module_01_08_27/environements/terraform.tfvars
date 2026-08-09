@@ -3,28 +3,11 @@ dev-rg= {
     name="rg-dev-eastjapan"
     location="japaneast2"
     }
-    resource_groups = {
-
-  rg2 = {
-
-    name = "humana-rg"
-
-    location = "East US"
-
-  }
-  rg2 = {
-
-    name = "humana-rg2"
-
-    location = "East US"
-
-  }
-rg6 = {
-
-    name = "sumant"
-
-    location = "East US"
-}
+    rg2={
+    name="Sunday_Pain"
+    location="japaneast2"
+    }
+    
 }
 dev-vnet={
     vnet1={
