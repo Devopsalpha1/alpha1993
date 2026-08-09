@@ -5,7 +5,7 @@ dev-rg= {
     }
     rg2={
     name="Sunday_Pain"
-    location="japaneast2"
+    location="japaneast"
     }
     
 }
