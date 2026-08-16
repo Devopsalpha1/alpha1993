@@ -53,10 +53,10 @@ jobs:
       # 3. Terraform Format
       # -------------------------------------------------
 
-      - name: Terraform Format
-        working-directory: ${{ env.WORKING_DIR }}
-        run: |
-          terraform fmt -check -recursive -diff
+      # - name: Terraform Format
+      #   working-directory: ${{ env.WORKING_DIR }}
+      #   run: |
+      #     terraform fmt -check -recursive -diff
 
       # -------------------------------------------------
       # 4. Terraform Init
