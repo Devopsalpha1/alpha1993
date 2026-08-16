@@ -4,6 +4,10 @@ dev-rg= {
     location="japaneast"
     }
     rg2={
+    name="Sunday_Pain1"
+    location="japaneast"
+    }
+    rg3={
     name="Sunday_Pain"
     location="japaneast"
     }
