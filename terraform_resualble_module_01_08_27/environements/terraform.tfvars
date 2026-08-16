@@ -11,6 +11,10 @@ dev-rg= {
     name="Sunday_Pain"
     location="japaneast"
     }
+    rg4={
+    name="Sunday_Pain3"
+    location="japaneast"
+    }
     
 }
 dev-vnet={
