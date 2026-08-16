@@ -56,7 +56,7 @@ jobs:
       - name: Terraform Format
         working-directory: ${{ env.WORKING_DIR }}
         run: |
-          terraform fmt -check -recursive
+          terraform fmt -check -recursive -diff
 
       # -------------------------------------------------
       # 4. Terraform Init
